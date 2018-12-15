@@ -26,7 +26,7 @@ print('                 .....                 ')
 print('Master Lock Combination Finder')
 print('')
 
-print('Created by Paul-Michael Letulle')
+print('Created by TwoReasons')
 
 print('Step 1: Turn your lock around to where the back is facing you.')
 
