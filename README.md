@@ -3,7 +3,7 @@ An VERY simple python script to search a database of known Masterlock combo-code
 
 <b>
 FOR EDUCATIONAL USE ONLY
-<b/>
+<b\>
   
 This is a simple python script that exploits a Masterlock Combination Lock vounerability.
 
